@@ -3,3 +3,5 @@ mkdir directoryname
 touch filename
 git add <filename>
 git add .
+git remote add origin <URL>
+git push -u origin main
