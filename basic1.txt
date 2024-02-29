@@ -1,0 +1,5 @@
+cd filename
+mkdir directoryname
+touch filename
+git add <filename>
+git add .
